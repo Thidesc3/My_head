@@ -2,4 +2,4 @@
 
 
 
-![](cabeca_rotanting.gif)
+![](cabeca_rotating.gif)
